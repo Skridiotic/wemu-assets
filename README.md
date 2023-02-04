@@ -1,4 +1,2 @@
-# GBA
-This section is for GBA ROM's, there is 1 entry.
-
- - Apotris [Homebrew]
+# wemu-assets
+A repo to host website, js and game files for my wemu site.
